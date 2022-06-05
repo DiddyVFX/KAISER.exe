@@ -1,2 +1,2 @@
 # KAISER.exe
-a small GDI Trojan |  Damage: nothing | source code coming soon
+a small GDI Trojan |  Damage: nothing 
