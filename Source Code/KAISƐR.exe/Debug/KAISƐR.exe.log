@@ -1,0 +1,14 @@
+﻿  KAISƐR.exe.cpp
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(25,58): warning C4244: "=": Konvertierung von "double" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(39,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(53,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(67,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(81,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(95,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(109,47): warning C4293: ">>": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert.
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(109,68): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(151,94): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(323,22): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(323,40): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(354,10): warning C4101: "v3": Unreferenzierte lokale Variable
+  KAISƐR.exe.vcxproj -> C:\Users\Anwender\source\repos\KAISƐR.exe\Debug\KAISƐR.exe.exe

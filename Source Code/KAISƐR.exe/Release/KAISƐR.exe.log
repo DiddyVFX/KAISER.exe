@@ -1,0 +1,19 @@
+﻿  KAISƐR.exe.cpp
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(26,58): warning C4244: "=": Konvertierung von "double" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(40,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(54,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(68,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(82,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(96,58): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(110,47): warning C4293: ">>": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert.
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(110,68): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(152,94): warning C4244: "=": Konvertierung von "unsigned long" in "char", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(313,22): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(313,40): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Anwender\source\repos\KAISƐR.exe\KAISƐR.exe\KAISƐR.exe.cpp(344,10): warning C4101: "v3": Unreferenzierte lokale Variable
+  Code wird generiert.
+  1 of 21 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  KAISƐR.exe.vcxproj -> C:\Users\Anwender\source\repos\KAISƐR.exe\Release\KAISƐR.exe.exe
